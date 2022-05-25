@@ -16,3 +16,12 @@ public class Ejemplo {
 	}
 
 }
+
+
+/*
+Sentencies GIT
+$ git add .
+$ git commit -m "Primera practica Java"
+$ git push -uf origin main
+
+*/
