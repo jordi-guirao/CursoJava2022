@@ -13,7 +13,7 @@ public class Ejercicio6 {
 		System.out.println("Introduce Categoria ( A, B o C)");	
 		Scanner sc = new Scanner(System.in);
 		
-		String strCategoria =sc.nextLine();			
+		String strCategoria =sc.next();			
 		
 		String strCatUC = strCategoria.toUpperCase();
 				
